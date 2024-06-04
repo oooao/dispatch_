@@ -2,6 +2,10 @@
 
 ## 摘要
 派工整合系統主要為媒合傢俱師傅與相關需求的客戶。透過線上預約的方式指派師傅完成傢俱安裝或修理，並整合相關其他服務如：電商、物流、特約等集合而成的平台。
+透過Figma與設計師協調並協助APP UI設計
+
+![S1iE3Tmy0](https://github.com/oooao/dispatch_/assets/80454372/fff49c5a-64a6-403b-8d33-8eaee1a01e04)
+
 ## 主頁面
 其APP開發透過Flutter串接後端API並且完成狀態管理以及動畫製作等。
 ![image](https://hackmd.io/_uploads/HJ-4naQ1A.png)
