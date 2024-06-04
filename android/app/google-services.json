@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "411358792205",
+    "project_id": "bizworks-12327",
+    "storage_bucket": "bizworks-12327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411358792205:android:4d24df9a5241af0185e344",
+        "android_client_info": {
+          "package_name": "tw.com.bizworks.dispatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411358792205-39qnkfka4qh46m0mfj225hpsi5pj1ijl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXlAmmDjtNPjx2cdMwaBV0iy82Af3CF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411358792205-39qnkfka4qh46m0mfj225hpsi5pj1ijl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411358792205-95v3p2fol6lcfd237p43hm3tckhdjokq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tw.com.bizworks.dispatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
